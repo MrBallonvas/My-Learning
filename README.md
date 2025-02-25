@@ -1,4 +1,4 @@
-This repo store my notes for tech which I learn
+This repo store my notes for techs which I learn
 ## Using
 1. Clone repo
 2. Open it in Obsidian as a vault

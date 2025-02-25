@@ -1,1 +1,5 @@
+[[TypeScript]]
+[[JavaScript]]
 [[Next]]
+[[React]]
+[[Lua]]
