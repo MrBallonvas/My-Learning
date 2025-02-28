@@ -1,5 +1,6 @@
 [[TypeScript]]
 [[JavaScript]]
+[[Libs for JS/TS development]]
 [[Next]]
 [[React]]
 [[Lua]]

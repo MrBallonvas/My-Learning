@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00716673080284fd",
+        "id": "97545b88d6979562",
         "type": "tabs",
         "children": [
           {
-            "id": "df152e7020806c54",
+            "id": "40b3b0b28f38f245",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "File API.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "File API"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "File API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for File API"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "File API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from File API"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "File API.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of File API"
             }
           }
         ]
@@ -151,34 +159,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "df152e7020806c54",
+  "active": "40b3b0b28f38f245",
   "lastOpenFiles": [
-    "Streaming.md",
+    "FileList.md",
+    "File API.md",
+    "JavaScript.md",
+    "Blob API.md",
+    "JSON.md",
+    "FileReader.md",
+    "Index.md",
+    "Libs for JS/TS development.md",
+    "Prettier.md",
+    "ESLint.md",
+    "Libs for JS",
+    "Lua.md",
     "React.md",
-    "React SSR.md",
     "Next.md",
-    "Loading.md",
+    "TypeScript.md",
+    "React SSR.md",
     "routing.md",
+    "Tools for routing.md",
+    "colocating.md",
+    "component hierarchy.md",
+    "Error handling.md",
+    "Streaming.md",
+    "Loading.md",
     "Caching.md",
     "Prefetching.md",
     "fetch data.md",
-    "Index.md",
-    "Tools for routing.md",
-    "Error handling.md",
-    "README.md",
-    "component hierarchy.md",
-    "colocating.md",
-    "Lua.md",
-    "JavaScript.md",
-    "TypeScript.md",
-    "lua.md",
-    "typescript.md",
-    "next.md",
-    "javascript.md",
-    "fastify.md",
-    "react.md"
+    "README.md"
   ]
 }

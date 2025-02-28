@@ -2,7 +2,7 @@ Errors can be divided into two categories: **expected errors** and **uncaught
 - **Model expected errors as return values**: Avoid using `try`/`catch` for expected errors in Server Actions. Use [`useActionState`](https://react.dev/reference/react/useActionState) to manage these errors and return them to the client.
 - **Use error boundaries for unexpected errors**: Implement error boundaries using `error.tsx` and `global-error.tsx` files to handle unexpected errors and provide a fallback UI.
 
-# [Handling Expected Errors](https://nextjs.org/docs/app/building-your-application/routing/error-handling#handling-expected-errors)
+# Handling Expected Errors
 ### [Handling Expected Errors from Server Actions](https://nextjs.org/docs/app/building-your-application/routing/error-handling#handling-expected-errors-from-server-actions)
 Use the `useActionState` hook to manage the state of Server Actions, including handling errors. This approach avoids `try`/`catch` blocks for expected errors, which should be modeled as return values rather than thrown exceptions.
 ```TSX
@@ -61,7 +61,7 @@ export default async function Page() {
 }
 ```
 
-# [Uncaught Exceptions](https://nextjs.org/docs/app/building-your-application/routing/error-handling#uncaught-exceptions)
+# Uncaught Exceptions
 ### [Using Error Boundaries](https://nextjs.org/docs/app/building-your-application/routing/error-handling#using-error-boundaries)
 ```TSX
 'use client' // Error boundaries must be Client Components
