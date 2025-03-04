@@ -10,7 +10,7 @@
 ### Volatile
 tells to compiler don't optimize some var
 ## Features
-### How to swap values without temproary variable
+### How to swap values without temporary variable
 1. Sum:
 ```C
 a = a + b;

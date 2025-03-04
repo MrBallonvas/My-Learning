@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6e170b5430db8aa7",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "6d3b88d6f27a8375",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0d680be978392b6c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "Index"
             }
-          },
-          {
-            "id": "4df62bc58e8fce83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C"
-            }
-          },
-          {
-            "id": "052523dbf50b8a68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variables"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "43b3b20734b1be3f",
@@ -123,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variables.md",
+                "file": "DataTransfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Variables"
+              "title": "Backlinks for DataTransfer"
             }
           },
           {
@@ -142,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variables.md",
+                "file": "DataTransfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Variables"
+              "title": "Outgoing links from DataTransfer"
             }
           },
           {
@@ -169,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variables.md"
+                "file": "DataTransfer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Variables"
+              "title": "Outline of DataTransfer"
             }
           }
         ]
@@ -193,34 +163,45 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "052523dbf50b8a68",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "C.md",
-    "Variables.md",
+    "JavaScript.md",
+    "JS.md",
+    "FileReader.md",
+    "DataTransfer.md",
     "Index.md",
+    "FileList.md",
+    "Blob API.md",
+    "C.md",
+    "Math.md",
+    "Inequality of averages.md",
+    "media/Pasted image 20250304065704.png",
+    "Geometric average.md",
+    "media/Pasted image 20250304065614.png",
+    "Variables.md",
+    "Arithmetic progression.md",
+    "media/Pasted image 20250304064611.png",
+    "media/Pasted image 20250304064650.png",
+    "Geometric progression.md",
+    "media/Pasted image 20250304065357.png",
+    "media",
+    "media/Pasted image 20250304065256.png",
+    "media/Pasted image 20250304065322.png",
+    "media/Pasted image 20250304065225.png",
+    "media/Pasted image 20250304065059.png",
+    "media/Pasted image 20250304065029.png",
+    "Libs for JS/TS development.md",
+    "ESLint.md",
+    "Prettier.md",
     "routing.md",
     "Route groups.md",
     "Next.md",
-    "JavaScript.md",
     "React.md",
     "File API.md",
-    "FileList.md",
-    "Blob API.md",
     "JSON.md",
-    "FileReader.md",
-    "Libs for JS/TS development.md",
-    "Prettier.md",
-    "ESLint.md",
     "Libs for JS",
     "Lua.md",
     "TypeScript.md",
-    "React SSR.md",
-    "Tools for routing.md",
-    "colocating.md",
-    "component hierarchy.md",
-    "Error handling.md",
-    "Streaming.md",
-    "Loading.md",
-    "Caching.md"
+    "React SSR.md"
   ]
 }

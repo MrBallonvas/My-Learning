@@ -1,0 +1,7 @@
+[[File API]]
+[[FileList]]
+[[FileReader]]
+[[Blob API]]
+[[JSON]]
+[[FileReader]]
+[[DataTransfer]]
