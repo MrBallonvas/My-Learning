@@ -5,3 +5,5 @@
 [[JSON]]
 [[FileReader]]
 [[DataTransfer]]
+[[Drag and drop Example]]
+[[Selection]]
